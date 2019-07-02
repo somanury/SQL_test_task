@@ -1,4 +1,4 @@
-# sql(Redash)
+# Task description
 
 **Problem**: SELECT statement for all the unique sessions with condition (given sequence of visited pages: page1, page2, page3) from table "pages" with columns: user_id, happened_at, page. Session length is 60 minutes.
 
